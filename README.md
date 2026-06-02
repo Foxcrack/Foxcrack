@@ -6,7 +6,7 @@ Soy un apasionado por la tecnología, el desarrollo web y los videojuegos. Me en
 
 ### 👨‍💻 Sobre mí
 
-- 🔭 Actualmente trabajo como Desarrollador Frontend en **[TML (tetrislatam.com)](https://tetrislatam.com)** y mantengo mi proyecto personal **[twfoxcrack.com](https://twfoxcrack.com)**.
+- 🔭 Actualmente mantengo mi proyecto personal **[twfoxcrack.com](https://twfoxcrack.com)**.
 - 🌱 Siempre mejorando mis habilidades en desarrollo web (metodologías Git Flow) y diseño de videojuegos.
 - 🏆 **Logros destacados:** Ganador de la Red Bull Tetris Competition (2025) y 2.º lugar en la Hackathon Popayán (2025).
 - 🎮 **Intereses:** Además de programar, disfruto mucho de juegos como Tetris, Minecraft, Halo MCC y Geometry Dash. También me gusta explorar el diseño 3D y la producción musical.
