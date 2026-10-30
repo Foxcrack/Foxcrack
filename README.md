@@ -4,7 +4,7 @@
 
 Soy un apasionado por la tecnología, el desarrollo web y los videojuegos. Me encanta crear experiencias digitales interactivas, trabajar en equipo y aprender cosas nuevas todos los días.
 
-### 👨‍💻 Sobre mí
+### Sobre mí
 
 - Actualmente mantengo mi proyecto personal **[twfoxcrack.com](https://twfoxcrack.com)**.
 - Siempre mejorando mis habilidades en desarrollo web (metodologías Git Flow) y diseño de videojuegos.
